@@ -1,7 +1,7 @@
-# Picasso
-Picasso is a powerful image (micro) service.
+# Picolo
+Picolo is a powerful image (micro) service.
 
-#   The Power of Picasso
+#   The Power of Picolo
 ##  Image Upload
 Securely upload images or files from any source
 ##  Cloud Storage
